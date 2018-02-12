@@ -1,6 +1,6 @@
 {
   "name": "slack-integration",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "slack.py",
   "author": "",
